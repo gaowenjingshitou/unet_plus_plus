@@ -1,6 +1,8 @@
 #encoding-utf-8
 
-
+"""
+训练模型
+"""
 import argparse
 import os
 from collections import OrderedDict
