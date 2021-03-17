@@ -1,3 +1,6 @@
+#encoding-utf-8
+
+
 import argparse
 import os
 from collections import OrderedDict
